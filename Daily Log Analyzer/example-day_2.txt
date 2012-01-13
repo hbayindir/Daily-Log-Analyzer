@@ -1,0 +1,10 @@
+Tarih: 2010-11-21
+10:00 - category 1 - task1
+10:27 - break - break
+10:29 - category 1 - task1
+10:52 - category 2 - task2
+11:15 - break - lunch break
+11:30 - break - break
+12:00 - category 2 - task 3
+13:00 - category 3 - task 1
+15:00 - day end - day end
